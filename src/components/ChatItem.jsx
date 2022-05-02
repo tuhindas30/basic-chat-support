@@ -27,11 +27,3 @@ const ChatItem = ({ chat, selectedChatId, onClick }) => {
 };
 
 export default ChatItem;
-
-/*
-  id: 1
-  title: "Flipkart Support"
-  imageURL: "https://rukminim1.flixcart.com/image/300/300/k0vbgy80pkrrdj/speaker/mobile-tablet-speaker/4/n/n/boat-stone-grenade-original-imafg96ffpnpgdv4.jpeg?q=90"
-  orderId: "OD1234567890"
-  latestMessageTimestamp: 1632205237669
-  */
